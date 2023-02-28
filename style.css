@@ -1,0 +1,36 @@
+body{
+    margin: 0px;  /* Margem Externa */
+    padding: 0px; /* Margem Interna */
+}
+
+header{
+    background-image: url('assets/images/fundotopo.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 560px;
+    font-family: 'Inter';
+    
+}
+
+header h1{
+    font-size: 40px;
+    
+
+}
+
+header h4{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+#titulo{
+    color: white;
+    padding-left: 170px;
+    padding-top: 50px;
+    width: 530px;
+}
+
+#menu{
+    padding: 60px;
+    padding-bottom: 0px;
+}
